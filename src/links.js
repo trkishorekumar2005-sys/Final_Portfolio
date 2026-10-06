@@ -3,8 +3,8 @@
 
 export const EMAIL = 'trkishorekumar2005@gmail.com'
 
-export const LINKEDIN_URL = '#' // PLACEHOLDER: e.g. https://www.linkedin.com/in/your-profile
-export const GITHUB_URL = '#' // PLACEHOLDER: e.g. https://github.com/your-username
+export const LINKEDIN_URL = 'https://www.linkedin.com/in/kishorekumar071/'
+export const GITHUB_URL = 'https://github.com/trkishorekumar2005-sys'
 
 export const RESUME_SCREENER_GITHUB = '#' // PLACEHOLDER: GitHub repo URL for AI Resume Screening project
 export const RESUME_SCREENER_DEMO = '#' // PLACEHOLDER: Live demo URL for AI Resume Screening project
